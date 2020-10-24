@@ -11,6 +11,6 @@ Please follow these steps to setup the coding challenge questions:
 6. If using a Mac, run `chmod +x AlgoShell.sh`
 7. Follow the instructions in `CodingQuestions.pdf` to do coding questions
 
-Happy coding! 
+Happy coding!!
 
 Feel free to let me know if you have any questions `andrewroblesdev@gmail.com`
